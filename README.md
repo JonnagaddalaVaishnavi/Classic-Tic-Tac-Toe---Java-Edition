@@ -42,7 +42,7 @@ This project implements the classic Tic Tac Toe game using Java. It features a c
 - The game will display the board after each move and announce the winner or if the game is a draw.
 
 ## Screenshots
-![Tic Tac Toe CLI]("TicTacToe/TicTacToe.jpg")
+![Tic Tac Toe CLI](./TicTacToe.jpg)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
